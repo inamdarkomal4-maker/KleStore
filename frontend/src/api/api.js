@@ -4,8 +4,8 @@ export const BASE_URL =
   window.location.hostname === "localhost" ||
   window.location.hostname === "127.0.0.1"
     ? "http://localhost:8000"
-    : "https://shopingappkle-egs3.onrender.com";
-
+    : "https://klestore-4mnm.onrender.com";
+      
 
 // Common fetch function
 export async function apiFetch(
